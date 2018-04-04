@@ -2,10 +2,8 @@
 Kyara | The further is now.
 
 
-### Some handy links
-
 * Discord server: [<img src="https://discordapp.com/api/guilds/159962941502783488/widget.png">](https://discord.gg/0tOgeGSG9kV0jasj)
-> Kyara's commands
+
 |Ludicrous Feature|Description|
 |-------|-----------|
 |Commands|Add and manage your **AWESOME** custom commands!|
