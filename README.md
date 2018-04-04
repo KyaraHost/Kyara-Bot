@@ -18,6 +18,19 @@ Kyara | The further is now.
 |Say|say something throw the bot|kya, say <typescript>|
 |Purge|Purge from 2 to 100 messages|kya, purge <2-100>|
 
+### Images Commands
+|Commands|Description|Usage|
+|-------|-----------|--------|
+|Neko|Neko pictures|kya, neko|
+|Dog|Dog pictures 🐕|kya, dog|
+|Cat|Cat pictures 🐈|kya, cat|
+|Photograph|Random pictures in the internet taken by **humans**|kya, photograph|
+|Cry|Feelsadman ;(|kya, cry|
+|Dab|Dab on them haters <o/|kya, dab|
+|Eat|Eat something, a cookie🍪 maybe?|kya, eat <food_please>|
+|Skin|A Minecraft command|kya, skin <premium_mc_name>|
+|Achievement|A Minecraft command|kya, achievement <down_32>\[head_32]\[item]|
+
 
 <p align="center">
 Made by: <b>Demon69</b>.
