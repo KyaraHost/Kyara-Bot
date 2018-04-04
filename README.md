@@ -3,18 +3,13 @@ Kyara | The further is now.
 
 
 * Discord server: [<img src="https://discordapp.com/api/guilds/159962941502783488/widget.png">](https://discord.gg/exb78RZ)
-
-|Ludicrous Feature|Description|
-|-------|-----------|
-|Commands|Add and manage your **AWESOME** custom commands!|
-|Levels|Let your members gain **XP** and **levels** by participating in the chat!|
-|Moderator|Cool moderator commands! slowmode/clear/mute|
-|Music|Listen to music with your friends!|
-|Search Anything|Search for whatever you want on Imgur, youtube, MyAnimeList and many more websites...|
-|Help Me!|Enables the !help command.|
-|Twitch & co.|Get notified when your best Twitch, Hitbox, and Beam streamers go live!|
-|Reddit|Get the new posts of your favorite subreddits!|
-|Welcome|Display a welcome message for members that have joined the server!|
+***Note: <> = required | [] = optional***
+|Commands|Description|Usage|
+|-------|-----------|--------|
+|Help|Shows the help command (will link you to here & website)|kya, help|
+|Ping|Pong!|kya, ping|
+|Ban|*mod-logs: required* ban a user |kya, ban <@user> [Reason]|
+|Mute|*mod-logs + Mute role: required* permanent mute a member|kya, mute <@user> [Reason]| 
 
 
 <p align="center">
