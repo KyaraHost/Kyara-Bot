@@ -3,7 +3,9 @@ Kyara | The further is now.
 
 
 * Discord server: [<img src="https://discordapp.com/api/guilds/159962941502783488/widget.png">](https://discord.gg/exb78RZ)
+
 ***Note: <> = required | [] = optional***
+
 |Commands|Description|Usage|
 |-------|-----------|--------|
 |Help|Shows the help command (will link you to here & website)|kya, help|
