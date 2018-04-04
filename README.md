@@ -1,8 +1,6 @@
 # Kyara-Bot
 Kyara | The further is now.
 * Discord server: [<img src="https://discordapp.com/api/guilds/159962941502783488/widget.png">](https://discord.gg/exb78RZ)
-<img src="docs/pics/cggk7y9%5B1%5D.png?raw=true">
-
 |Ludicrous Feature|Description|
 |-------|-----------|
 |Commands|Add and manage your **AWESOME** custom commands!|
