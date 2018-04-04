@@ -5,7 +5,7 @@ Kyara | The further is now.
 
 * Discord server: [<img src="https://discordapp.com/api/guilds/159962941502783488/widget.png">](https://discord.gg/exb78RZ)
 
-***Note: <> = required | [ ] = optional***
+***Note: <> = required ; [ ] = optional ; ^ = | we can't use it in the table ;( ***
 
 ### Moderation Commands
 |Commands|Description|Usage|
@@ -29,7 +29,7 @@ Kyara | The further is now.
 |Dab|Dab on them haters <o/|kya, dab|
 |Eat|Eat something, a cookie🍪 maybe?|kya, eat <food_please>|
 |Skin|A Minecraft command|kya, skin <premium_mc_name>|
-|Achievement|A Minecraft command|kya, achievement <down_32>\[head_32]\[item]|
+|Achievement|A Minecraft command|kya, achievement <down_32>^[head_32]^[item]|
 
 
 <p align="center">
