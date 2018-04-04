@@ -1,10 +1,12 @@
 # [Kyara by KyaraHost](http://kyarabot.ml)
+<p align="center">
 Kyara | The further is now.
-
+</p>
 
 * Discord server: [<img src="https://discordapp.com/api/guilds/159962941502783488/widget.png">](https://discord.gg/exb78RZ)
 
-***Note: <> = required | [] = optional***
+***Note: <> = required | [ ] = optional***
+
 ### Moderation Commands
 |Commands|Description|Usage|
 |-------|-----------|--------|
@@ -14,6 +16,7 @@ Kyara | The further is now.
 |Softban|*mod-logs: required* bans + unbans a user to delete messages|kya, softban <@user> [Reason]|
 |Unban|*mod-logs + banned member: required* unban a user|kya, unban <@user> [Reason]|
 |Say|say something throw the bot|kya, say <typescript>|
+|Purge|Purge from 2 to 100 messages|kya, purge <2-100>|
 
 
 <p align="center">
