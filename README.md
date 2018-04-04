@@ -2,7 +2,7 @@
 Kyara | The further is now.
 
 
-* Discord server: [<img src="https://discordapp.com/api/guilds/159962941502783488/widget.png">](https://discord.gg/0tOgeGSG9kV0jasj)
+* Discord server: [<img src="https://discordapp.com/api/guilds/159962941502783488/widget.png">](https://discord.gg/exb78RZ)
 
 |Ludicrous Feature|Description|
 |-------|-----------|
