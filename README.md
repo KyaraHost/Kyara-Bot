@@ -5,7 +5,7 @@ Kyara | The further is now.
 
 * Discord server: [<img src="https://discordapp.com/api/guilds/159962941502783488/widget.png">](https://discord.gg/exb78RZ)
 
-***Note: <> = required ; [ ] = optional ; ^ = | we can't use it in the table ;( ***
+***Note: <> = required ; [ ] = optional ; ^ = | we can't use it in the table ;(***
 
 ### Moderation Commands
 |Commands|Description|Usage|
