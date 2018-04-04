@@ -1,4 +1,4 @@
-# [Kyara-Bot](http://kyarabot.ml)
+# [Kyara by KyaraHost](http://kyarabot.ml)
 Kyara | The further is now.
 
 
