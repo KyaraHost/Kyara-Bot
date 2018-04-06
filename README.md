@@ -3,7 +3,7 @@
 Kyara | The further is now.
 </p>
 
-* Discord server: [<img src="https://discordapp.com/api/guilds/159962941502783488/widget.png">](https://discord.gg/exb78RZ)
+* Discord server: [<img src="https://discordapp.com/api/guilds/417236652323241994/widget.png">](https://discord.gg/exb78RZ)
 
 ***Note: <> = required ; [ ] = optional ; ^ = | we can't use it in the table ;(***
 
