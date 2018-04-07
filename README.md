@@ -23,6 +23,7 @@ Kyara | The further is now.
 |-------|-----------|--------|
 |Neko|Neko pictures|kya, neko|
 |Dog|Dog pictures 🐕|kya, dog|
+|Meme|Meme generator|kya, meme <background>^[up]^[down]|
 |Cat|Cat pictures 🐈|kya, cat|
 |Photograph|Random pictures in the internet taken by **humans**|kya, photograph|
 |Cry|Feelsadman ;(|kya, cry|
@@ -31,6 +32,10 @@ Kyara | The further is now.
 |Skin|A Minecraft command|kya, skin <premium_mc_name>|
 |Achievement|A Minecraft command|kya, achievement <down_32>^[head_32]^[item]|
 
+### Fun Commands
+|Commands|Description|Usage|
+|-------|-----------|--------|
+|f|Fun Fact (kya)|kya, f <@user>|
 
 <p align="center">
 Made by: <b>Demon69</b>.
