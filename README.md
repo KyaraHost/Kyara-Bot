@@ -38,6 +38,5 @@ Kyara | The further is now.
 |f|Fun Fact (kya)|kya, f <@user>|
 
 <p align="center">
-Made by: <b>Demon69</b>.
-Owner of: <b>KyaraHost</b>
+Made with love by <b>Demon69</b> owner of <b>KyaraHost</b>.
 </p>
