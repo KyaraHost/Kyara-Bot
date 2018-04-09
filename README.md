@@ -15,7 +15,7 @@ Kyara | The further is now.
 |Unmute|*mod-logs + muted member: required* unmutes a member|kya, unmute <@user> [Reason]|
 |Softban|*mod-logs: required* bans + unbans a user to delete messages|kya, softban <@user> [Reason]|
 |Unban|*mod-logs + banned member: required* unban a user|kya, unban <@user> [Reason]|
-|Say|say something throw the bot|kya, say <abc>|
+|Say|say something throw the bot|kya, say <1abc>|
 |Purge|Purge from 2 to 100 messages|kya, purge <2-100>|
 
 ### Images Commands
