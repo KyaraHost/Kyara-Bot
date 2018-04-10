@@ -37,7 +37,7 @@ Kyara | The further is now.
 |-------|-----------|--------|
 |f|Fun Fact (kya)|kya, f <@user>|
 |Situation|Check your situation in the future|kya, situation|
-|FakeID|Kyara generator|kya,fakeid|
+|FakeID|Kyara generator|kya, fakeid|
 |Ship|I ship My Dog with my cat|kya, ship|
 
 ### Utility Commands
