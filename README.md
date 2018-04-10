@@ -44,8 +44,8 @@ Kyara | The further is now.
 |Commands|Description|Usage|
 |-------|-----------|--------|
 |Spotify|Check if a user is playing a Spotify music as a status|kya, spotify <@user>
-|Fortnite|Check your or others fortnite stats|kya, fortnite|
-|Lmgtfy|Custom google search URL|kya,lmgtfy <something>|
+|Fortnite|Check your or others fortnite stats|kya, fortnite <pc/xbl/psn> <fortnite_name>|
+|Lmgtfy|Custom google search URL|kya,lmgtfy <string_pls>|
 |Stats|Kyara stats|kya, stats|
 |ServerInfo|Server Information|kya, serverinfo|
 |UserInfo|User Information|kya, userinfo <@user/id>|
