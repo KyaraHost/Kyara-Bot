@@ -23,7 +23,7 @@ Kyara | The further is now.
 |-------|-----------|--------|
 |Neko|Neko pictures|kya, neko|
 |Dog|Dog pictures 🐕|kya, dog|
-|Meme|Meme generator|kya, meme <background>^[up]^[down]|
+|Meme|Meme generator|kya, meme <background_pic>^[up]^[down]|
 |Cat|Cat pictures 🐈|kya, cat|
 |Photograph|Random pictures in the internet taken by **humans**|kya, photograph|
 |Cry|Feelsadman ;(|kya, cry|
@@ -36,6 +36,20 @@ Kyara | The further is now.
 |Commands|Description|Usage|
 |-------|-----------|--------|
 |f|Fun Fact (kya)|kya, f <@user>|
+|Situation|Check your situation in the future|kya, situation|
+|FakeID|Kyara generator|kya,fakeid|
+|Ship|I ship My Dog with my cat|kya, ship|
+
+### Utility Commands
+|Commands|Description|Usage|
+|-------|-----------|--------|
+|Spotify|Check if a user is playing a Spotify music as a status|kya, spotify <@user>
+|Fortnite|Check your or others fortnite stats|kya, fortnite|
+|Lmgtfy|Custom google search URL|kya,lmgtfy <something>|
+|Stats|Kyara stats|kya, stats|
+|ServerInfo|Server Information|kya, serverinfo|
+|UserInfo|User Information|kya, userinfo <@user/id>|
+
 
 <p align="center">
 Made with love by <b>Demon69</b> owner of <b>KyaraHost</b>.
