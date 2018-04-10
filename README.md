@@ -50,8 +50,9 @@ Kyara | The further is now.
 |ServerInfo|Server Information|kya, serverinfo|
 |UserInfo|User Information|kya, userinfo <@user/id>|
 
-
+<p align="center">
 **This repo will be updated everytime a new version of kyara comes out**
+</p>
 <p align="center">
 Made with love by <b>Demon69</b> owner of <b>KyaraHost</b>.
 </p>
