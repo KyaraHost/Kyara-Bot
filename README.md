@@ -10,13 +10,14 @@ Kyara | The further is now.
 ### Moderation Commands
 |Commands|Description|Usage|
 |-------|-----------|--------|
-|Ban|*mod-logs: required* ban a user|kya, ban <@user> [Reason]|
+|Ban|ban a user|kya, ban <@user> [Reason]|
 |Mute|*mod-logs + Mute role: required* permanent mute a member|kya, mute <@user> [Reason]|
 |Unmute|*mod-logs + muted member: required* unmutes a member|kya, unmute <@user> [Reason]|
 |Softban|*mod-logs: required* bans + unbans a user to delete messages|kya, softban <@user> [Reason]|
-|Unban|*mod-logs + banned member: required* unban a user|kya, unban <@user> [Reason]|
+|Unban|*banned member: required* unban a user|kya, unban <@user> [Reason]|
 |Say|say something through the bot|kya, say <1abc>|
 |Purge|Purge from 2 to 100 messages|kya, purge <2-100>|
+|checkinvites|Checks who ever is playing an invite link|kya, checkinvites|
 
 ### Images Commands
 |Commands|Description|Usage|
@@ -36,11 +37,14 @@ Kyara | The further is now.
 |Commands|Description|Usage|
 |-------|-----------|--------|
 |f|Fun Fact (kya)|kya, f <@user>|
+|Insult|Insult someone or even insult yourself|kya, insult[@user]|
+|Pirate|Pirate Language!|kya, pirate <I_Will_DESTROY_YOUR_SHIP!>|
+|Reverse|Reverse a full sentence|kya, reverse <mmlol>|
+|Rip|An odd link rip generator|kya, rip <yourmom>|
+|yomoma|YoMoMa jokes..|kya, yomoma|
+|spin|Spin your fidget spinner|kya, spin|
 |Ship|I ship My Dog with my cat|kya, ship|
-<!--
-|Situation|Check your situation in the future|kya, situation|
-|FakeID|Kyara generator|kya, fakeid|
--->
+
 
 ### Utility Commands
 |Commands|Description|Usage|
@@ -49,6 +53,7 @@ Kyara | The further is now.
 |Fortnite|Check your or others fortnite stats|kya, fortnite <pc/xbl/psn> <fortnite_name>|
 |Lmgtfy|Custom google search URL|kya, lmgtfy <string_pls>|
 |Stats|Kyara stats|kya, stats|
+|Donate|Donate to KyaraHost|kya, donate|
 |ServerInfo|Server Information|kya, serverinfo|
 |UserInfo|User Information|kya, userinfo <@user/id>|
 
