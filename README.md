@@ -11,9 +11,9 @@ Kyara | The further is now.
 |Commands|Description|Usage|
 |-------|-----------|--------|
 |Ban|ban a user|kya, ban <@user> [Reason]|
-|Mute|*mod-logs + Mute role: required* permanent mute a member|kya, mute <@user> [Reason]|
-|Unmute|*mod-logs + muted member: required* unmutes a member|kya, unmute <@user> [Reason]|
-|Softban|*mod-logs: required* bans + unbans a user to delete messages|kya, softban <@user> [Reason]|
+|Mute|*Mute role: required* permanent mute a member|kya, mute <@user> [Reason]|
+|Unmute|*Muted member: required* unmutes a member|kya, unmute <@user> [Reason]|
+|Softban|bans + unbans a user to delete messages|kya, softban <@user> [Reason]|
 |Unban|*banned member: required* unban a user|kya, unban <@user> [Reason]|
 |Say|say something through the bot|kya, say <1abc>|
 |Purge|Purge from 2 to 100 messages|kya, purge <2-100>|
@@ -37,6 +37,7 @@ Kyara | The further is now.
 |Commands|Description|Usage|
 |-------|-----------|--------|
 |f|Fun Fact (kya)|kya, f <@user>|
+|penis|How tall is your penis?|kya, penis [@user]|
 |Insult|Insult someone or even insult yourself|kya, insult[@user]|
 |Pirate|Pirate Language!|kya, pirate <I_Will_DESTROY_YOUR_SHIP!>|
 |Reverse|Reverse a full sentence|kya, reverse <mmlol>|
@@ -57,8 +58,25 @@ Kyara | The further is now.
 |ServerInfo|Server Information|kya, serverinfo|
 |UserInfo|User Information|kya, userinfo <@user/id>|
 
+
+### NSFW Commands
+|Commands|Description|Usage|
+|-------|-----------|--------|
+|Boobs|Natural Boobs picks c:|kya, boobs|
+|pussy| Natural Pussy picks c:|kya, pussy|
+|dick|Natural dicks picks c:|kya, dick|
+|ass|Natural ass picks c:|kya, ass|
+
+### Ticket Commands
+|Commands|Description|Usage|
+|-------|-----------|--------|
+|new|open a ticket|kya, new|
+|close|closes a ticket|kya, close|
+|confirm|confirmation of closing the ticket (SECURITY)|kya, confirm|
+
+
 <p align="center">
-<b>This repo will be updated everytime a new version of kyara comes out</b>
+<b><b>{!}</b>This repo will be updated everytime a new version of kyara comes out</b>
 </p>
 <p align="center">
 Made with love by <b>Demon69</b> owner of <b>KyaraHost</b>.
