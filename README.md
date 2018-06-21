@@ -38,7 +38,7 @@ Kyara | The further is now.
 |-------|-----------|--------|
 |f|Fun Fact (kya)|kya, f <@user>|
 |penis|How tall is your penis?|kya, penis [@user]|
-|Insult|Insult someone or even insult yourself|kya, insult[@user]|
+|Insult|Insult someone or even insult yourself|kya, insult [@user]|
 |Pirate|Pirate Language!|kya, pirate <I_Will_DESTROY_YOUR_SHIP!>|
 |Reverse|Reverse a full sentence|kya, reverse <mmlol>|
 |Rip|An odd link rip generator|kya, rip <yourmom>|
